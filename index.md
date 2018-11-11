@@ -5,6 +5,5 @@ title: "Latest Posts"
 ---
 
 <p>
-aa:
-<a href="https://twitter.com/intent/tweet?button_hashtag=fse18&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #fse18</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="250" data-link-color="#E81C4F" href="https://twitter.com/timmenzies?ref_src=twsrc%5Etfw">Tweets by timmenzies</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
