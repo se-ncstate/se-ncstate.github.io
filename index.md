@@ -1,11 +1,12 @@
 ---
-layout:media
+layout:default
 permalink: /
 title: "Latest Posts"
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+<a
+href="https://twitter.com/intent/tweet?button_hashtag=timmenzies&ref_src=twsrc%5Etfw"
+class="twitter-hashtag-button" data-show-count="false">Tweet
+#timmenzies</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
